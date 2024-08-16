@@ -1,0 +1,16 @@
+{
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "logout": "Logout",
+    "mainpage": "Main page",
+    "profile": "Profile",
+    "email": "Email Adress",
+    "password": "Password",
+    "remember": "Remember me",
+    "dontHaveAccount": "Don't have an account? Sign Up",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "alreadyHaveAccount": "Already have an account? Sign in",
+    "languageChange": "Language changed to "
+    
+}

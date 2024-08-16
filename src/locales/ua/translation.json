@@ -1,0 +1,16 @@
+{
+    "signin": "Увійти",
+    "signup": "Зареєструватися",
+    "logout": "Вийти",
+    "mainpage": "Головна сторінка",
+    "profile": "Профіль",
+    "email": "Електрона адреса",
+    "password": "Пароль",
+    "remember": "Запам'ятати мене",
+    "dontHaveAccount": "Немає акаунту? Створити",
+    "firstName": "Ім'я",
+    "lastName": "Призвіще",
+    "alreadyHaveAccount": "Уже маєте створений акаунт? Увійти",
+    "languageChange": "Мову змінено на "
+
+}
